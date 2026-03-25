@@ -1,0 +1,6 @@
+telethon
+yt-dlp
+aiohttp
+Pillow
+uvloop
+cryptg
